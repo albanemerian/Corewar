@@ -5,7 +5,10 @@ To start the program execute :
 
 make
 
-To play with the program execute the program with 2 or more .cor players. You can also give the player numbers and ids.
+**To play with the program execute the program with 2 or more .cor players. You can also give the player numbers and ids.**
+
+
+**The Corwar game is now in two parts if you want to understand the first part of it, the creation of the player look at my robot factorie repositorie**
 
 
 Preliminary (2 / 2) :
